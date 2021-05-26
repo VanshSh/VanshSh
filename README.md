@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  Learning Web developemnt
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh-beep&layout=compact)](https://github.com/VanshSh-beep/github-readme-stats)
