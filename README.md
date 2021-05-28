@@ -1,8 +1,6 @@
-
-
-
-https://user-images.githubusercontent.com/81517284/119961953-35150f80-bfc4-11eb-9ccd-a50bc17a60b6.mp4
-
+<video width="max-width"  height="max-height" autoplay>
+  <source src="https://media.giphy.com/media/mrVP75mtRNnmE/giphy.gif" type="video/mp4">
+</video>
 
 
 
