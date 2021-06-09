@@ -29,4 +29,13 @@
   
   <div align="center"><h2>Github Stats 📈 </h2>
     
-  ![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh)
+  ![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=radical)
+    
+  </div>
+  
+  <div align="center"><h2>Languages ✍️ </h2></div>
+    
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh&langs_count=8)](https://github.com/VanshSh/github-readme-stats)
+
+
