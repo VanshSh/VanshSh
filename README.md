@@ -1,6 +1,13 @@
+<div align="center"><img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47zzsghw3nkscpxlzs73r32erfa5qdl0cxjw7fwlb4&rid=giphy.gif&ct=g" width="350px" height="250px"></div>
+
+
 <div align="center"><h1><b>  Heyy There! 👋</b></h1></div>
 
-##  🚀My self **Vansh Sharma** currently learning **_Web Development_** and building projects to utilise my skills in best possible way. ##
+## ✌️ My self **Vansh Sharma**. ##
+
+## 💻 I am self taught **_Web Developer_** . ##
+
+## 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
 
 ## 📌 As a Web Developer  I believe in Lifelong Learning to hone my Skills and Knowledge. ##
 
@@ -36,6 +43,6 @@
   <div align="center"><h2>Languages ✍️ </h2></div>
     
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh&langs_count=8)](https://github.com/VanshSh/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh&langs_count=10)](https://github.com/VanshSh/github-readme-stats)
 
 
