@@ -28,7 +28,7 @@
 
 <!--Contact-->
 <div align="center"> <h2> Connect with me 👇</h2>  
- <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://image.flaticon.com/icons/png/128/145/145812.png" height="40"/></a>
+ <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://image.flaticon.com/icons/png/128/145/145812.png" height="40"/></a>
   
  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img  src="https://image.flaticon.com/icons/png/512/145/145807.png" height="40" style="margin-top:5px;"/></a>   
 </div>  
