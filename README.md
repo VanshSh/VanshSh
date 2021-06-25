@@ -11,7 +11,9 @@
 
 ## 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
 
-## 📌 As a Web Developer  I believe in Lifelong Learning to hone my Skills and Knowledge. ##
+## 📌 As a Web Developer  I love learning new technology and building projects. It helps me learn concepts more clearly. ##
+
+
 
 ## 📁 My [Portfolio](https://vanshsharma.netlify.app/)
 
