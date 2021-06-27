@@ -1,6 +1,8 @@
 <!--Gif-->
-<div align="center"><img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47zzsghw3nkscpxlzs73r32erfa5qdl0cxjw7fwlb4&rid=giphy.gif&ct=g" width="900" height="250px"></div>
-
+<!-- <div align="center"><img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47zzsghw3nkscpxlzs73r32erfa5qdl0cxjw7fwlb4&rid=giphy.gif&ct=g" width="900" height="250px"></div>
+ -->
+  <img src="https://source.unsplash.com/600x500/?nature,water,mountain">
+ 
 
 <!--Intro-->
 <div align="center"><h1><b>  Heyy There! 👋</b></h1></div>
