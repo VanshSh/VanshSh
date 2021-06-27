@@ -50,7 +50,7 @@
 <div align="center"> <h2> Connect with me 👇</h2>  
  <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/twitter.png"/></a>
  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png"/></a> 
- <a href="maito:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/gmail.png"/></a>
+ <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/gmail.png"/></a>
  <a href ="https://vanshsharma.hashnode.dev/" traget="_blank"><img src="https://img.icons8.com/office/50/000000/blog.png"/></a>
 </div>  
 
