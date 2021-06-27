@@ -36,7 +36,6 @@
 
 ### <li>  Reading about new technology.</li>
 
-<mailto:vanshsharma9354@gmail.com>
 
 <!--Technical skills-->
 <div align="center"><h1> Technical Skils 💻 </h1>
