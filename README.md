@@ -1,7 +1,7 @@
 <!--Gif-->
-<!-- <div align="center"><img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47zzsghw3nkscpxlzs73r32erfa5qdl0cxjw7fwlb4&rid=giphy.gif&ct=g" width="900" height="250px"></div>
- -->
-  <img src="https://source.unsplash.com/600x500/?nature,water,mountain">
+<div align="center"><img src="https://images.unsplash.com/photo-1438786657495-640937046d18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="80%" height="200px"></div>
+
+
  
 
 <!--Intro-->
@@ -13,43 +13,56 @@
 
 ## 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
 
-## 📌 As a Web Developer  I love learning new technology and building projects. It helps me learn concepts more clearly. ##
+## 📌 As a Web Developer  I love learning new technology and building projects. ##
+
+<div align="center"><h1> My Portfolio :point_down: </h1>
+<a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/80/000000/resume.png" style="vertical-align:top"></a> 
+</div>
 
 
 
-## 📁 My [Portfolio](https://vanshsharma.netlify.app/)
+<!-- Hobbies -->
+<div align="center"><h1> :star2: Hobbies: </h1></div> 
+
+### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+
+### <li><img src="https://img.icons8.com/plasticine/30/000000/books.png"/> Reading Books.</li>
+
+### <li><img src="https://img.icons8.com/offices/30/000000/theatre-mask.png"/> Watching Stand-up Comedy</li>
+
+### <li>:bulb: Sharing thoughts/ Idea, Discussion</li>
+
+### <li>  Reading about new technology.</li>
+
 
 
 <!--Technical skills-->
-<div align="center"><h2> Technical Skils 💻 </h2>
-<img src="https://user-images.githubusercontent.com/81517284/120500383-6cc5f200-c3de-11eb-9dc0-3c037275f6e6.png" height="30"/>
-  
-<img src="https://user-images.githubusercontent.com/81517284/120501128-fbd30a00-c3de-11eb-907a-0bc4386fc4e3.png" height="30"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="30"/>
+<div align="center"><h1> Technical Skils 💻 </h1>
+<img src="https://img.icons8.com/dusk/50/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
+<img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/>
+<img src="https://img.icons8.com/color/50/000000/git.png"/>
+<img src="https://img.icons8.com/dusk/50/000000/javascript-logo.png"/>
 </div>
 
 
 <!--Contact-->
 <div align="center"> <h2> Connect with me 👇</h2>  
- <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://image.flaticon.com/icons/png/128/145/145812.png" height="40"/></a>
-  
- <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img  src="https://image.flaticon.com/icons/png/512/145/145807.png" height="40" style="margin-top:5px;"/></a>   
+ <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/twitter.png"/></a>
+ <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png"/></a> 
+ <a href="maito:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/gmail.png"/></a>
+ <a href ="https://vanshsharma.hashnode.dev/" traget="_blank"><img src="https://img.icons8.com/office/50/000000/blog.png"/></a>
 </div>  
-  
+
 
 
 <!--Github Stats-->
-<div align="center"><h2>Github Stats 📈 </h2>
-  
-![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=radical)
-    
-</div>
+## <div align="center"><h2>Github Stats 📈 </h2>
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh)](https://github.com/anuraghazra/github-readme-stats)
+Stats | Languages
+------| ----------
+![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=radical) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-  
 
+ 
