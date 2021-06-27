@@ -26,7 +26,7 @@
 <!-- Hobbies -->
 <div align="center"><h1> :star2: Hobbies: </h1></div> 
 
-### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank"/><img src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
 
 ### <li><img src="https://img.icons8.com/plasticine/30/000000/books.png"/> Reading Books.</li>
 
