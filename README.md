@@ -34,8 +34,9 @@
 
 ### <li>:bulb: Sharing thoughts/ Idea, Discussion</li>
 
-### <li>  Reading about new technology.</li>
+### <li> Reading about new technology.</li>
 
+### <li>:pencil: Blogs </li>
 
 <!--Technical skills-->
 <div align="center"><h1> Technical Skils 💻 </h1>
