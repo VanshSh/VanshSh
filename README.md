@@ -38,6 +38,7 @@
 
 ### <li>:pencil: Blogs </li>
 
+
 <!--Technical skills-->
 <div align="center"><h1> Technical Skils 💻 </h1>
 <img src="https://img.icons8.com/dusk/50/000000/html-5.png"/>
@@ -45,6 +46,7 @@
 <img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/>
 <img src="https://img.icons8.com/color/50/000000/git.png"/>
 <img src="https://img.icons8.com/dusk/50/000000/javascript-logo.png"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-50.png" background-color=fff/>
 </div>
 
 
@@ -61,10 +63,9 @@
 <!--Github Stats-->
 ## <div align="center"><h2>Github Stats 📈 </h2>
 
-
 Stats | Languages
 ------| ----------
 ![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=radical) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh)](https://github.com/anuraghazra/github-readme-stats)
 
-
  
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
