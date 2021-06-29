@@ -36,7 +36,7 @@
 
 ### <li> Reading about new technology.</li>
 
-### <li>:pencil: Blogs </li>
+### <li>:pencil: Blogger </li>
 
 
 <!--Technical skills-->
