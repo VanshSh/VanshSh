@@ -46,7 +46,7 @@
 <img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/>
 <img src="https://img.icons8.com/color/50/000000/git.png"/>
 <img src="https://img.icons8.com/dusk/50/000000/javascript-logo.png"/>
-<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-50.png" background-color=fff/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/205_Markdown_logo_logos-50.png"/>
 </div>
 
 
