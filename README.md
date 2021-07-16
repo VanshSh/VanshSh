@@ -9,13 +9,13 @@
 <div align="center"><h1><b>  Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </b></h1></div>
 
-## ✌️ My self **Vansh Sharma**. ##
+### ✌️ My self **Vansh Sharma**. ##
 
-## 💻 I am self taught **_Web Developer_** . ##
+### 💻 I am self taught **_Web Developer_** . ##
 
-## 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
+### 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
 
-## 📌 As a Web Developer  I love learning new technology and building projects. ##
+### 📌 As a Web Developer  I love learning new technology and building projects. ##
 
 <div align="center"><h1> My Portfolio :point_down: </h1>
  <h2>Coming Soon</h2>
