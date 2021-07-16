@@ -35,7 +35,7 @@
 
 ### <li>:bulb: Sharing thoughts/ Idea, Discussion</li>
 
-### <li> Reading about new Technology, Startups.</li>
+### <li> :newspaper:   Reading about new Technology, Startups.</li>
 
 ### <li>:pencil: Blogger </li>
 
