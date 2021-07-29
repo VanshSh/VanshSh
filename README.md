@@ -39,6 +39,12 @@
 
 ### <li>:pencil: Blogger </li>
 
+****
+# 📩 Latest Blog Posts // You can name it whatever you want.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <!--Technical skills-->
 <div align="center"><h1> Technical Skils 💻 </h1>
