@@ -18,7 +18,6 @@
 ### 📌. As a Web developer I love building Projects and learning new tech skills. ##
 
 <div align="center"><h2> My Portfolio :point_down: </h2>
- <h2>Coming Soon</h2>
 <a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
 </div>
 
