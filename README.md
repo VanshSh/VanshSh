@@ -1,5 +1,5 @@
 <!--Gif-->
-<div align="center"><img src="https://images.unsplash.com/photo-1438786657495-640937046d18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="80%" height="200px"></div>
+<div align="center"><img src="https://images.unsplash.com/photo-1503401639559-b16332601594?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80" width="80%" height="200px"></div>
 
 
 
@@ -13,19 +13,19 @@
 
 ### 💻 I am self taught **_Web Developer_** . ##
 
-### 👨‍🎓 I am **_BSC(Physical Science Hons)_** Undergrad from Delhi University.
+### 👨‍🎓 I am **_BSC (Physical Science Hons)_** Undergrad from University of Delhi.
 
-### 📌 As a Web Developer  I love learning new technology and building projects. ##
+### 📌. As a Web developer I love building Projects and learning new tech skills. ##
 
-<div align="center"><h1> My Portfolio :point_down: </h1>
+<div align="center"><h2> My Portfolio :point_down: </h2>
  <h2>Coming Soon</h2>
-<!-- <a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/80/000000/resume.png" style="vertical-align:top">Coming Soon</a>  -->
+<a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
 </div>
 
 
 
 <!-- Hobbies -->
-<div align="center"><h1> :star2: Hobbies: </h1></div> 
+<div align="center"><h2> :star2: Hobbies: </h2></div> 
 
 ### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank"/><img src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
 
@@ -37,34 +37,34 @@
 
 ### <li> :newspaper:   Reading about new Technology, Startups.</li>
 
-### <li>:pencil: Blogger </li>
+### <li>:pencil: Read my Blogs <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/30/4a90e2/book-and-pencil.png"/></a> </li>
 
 ****
-# 📩 Latest Blog Posts // You can name it whatever you want.
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 
 <!--Technical skills-->
-<div align="center"><h1> Technical Skils 💻 </h1>
-<img src="https://img.icons8.com/dusk/50/000000/html-5.png"/>
-<img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
-<img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/>
-<img src="https://img.icons8.com/color/50/000000/git.png"/>
-<img src="https://img.icons8.com/dusk/50/000000/javascript-logo.png"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/205_Markdown_logo_logos-50.png"/>
-</div>
+<h2> Technical Skils 💻 </h2>
+
+### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
 
 
+### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
+
+
+### Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
+
+
+
+
+***
 <!--Contact-->
-<div align="center"> <h2> Connect with me 👇</h2>  
- <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/twitter.png"/></a>
- <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png"/></a> 
- <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/gmail.png"/></a>
- <a href ="https://vanshsharma.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/office/50/000000/blog.png"/></a>
- <a href="https://codepen.io/your-work/"><img src="https://user-images.githubusercontent.com/81517284/124274068-73bb5e00-db5e-11eb-8ffb-05cf1ce2492e.png"/></a>
-</div>  
+ <h2> Connect with me 👇</h2>  
+ <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/40/000000/linkedin.png"/></a> 
+ <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/gmail.png"/></a>
+ <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/40/4a90e2/book-and-pencil.png"/></a>
+ <a href="https://codepen.io/vanshsh"/><img src="https://img.icons8.com/ios/40/4a90e2/codepen.png"/></a>
+
+***
 
 
 
