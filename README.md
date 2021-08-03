@@ -15,7 +15,7 @@
 
 ### 👨‍🎓 I am **_BSC (Physical Science Hons)_** Undergrad from University of Delhi.
 
-### 📌. As a Web developer I love building Projects and learning new tech skills. ##
+### 📌  As a Web developer I love building Projects and learning new tech skills. ##
 
 <div align="center"><h2> My Portfolio :point_down: </h2>
 <a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
@@ -26,7 +26,7 @@
 <!-- Hobbies -->
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
-### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank"/><img src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
 
 ### <li><img src="https://img.icons8.com/plasticine/30/000000/books.png"/> Reading Books.</li>
 
@@ -36,7 +36,7 @@
 
 ### <li> :newspaper:   Reading about new Technology, Startups.</li>
 
-### <li>:pencil: Read my Blogs <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/30/4a90e2/book-and-pencil.png"/></a> </li>
+### <li>:pencil: Read my Blogs <a href="https://vanshsharma.hashnode.dev/">  <img  align="center" src="https://img.icons8.com/ios-filled/30/4a90e2/book-and-pencil.png"/></a> </li>
 
 ****
 
