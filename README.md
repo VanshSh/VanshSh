@@ -6,8 +6,18 @@
  
 
 <!--Intro-->
-<div align="center"><h1><b>  Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
-</b></h1></div>
+<div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
+</h1>
+<!--Contact-->
+ <h2 align="center">Connect</h2>  
+ <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/40/000000/linkedin.png"/></a> 
+ <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/gmail.png"/></a>
+ <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/33/4a90e2/book-and-pencil.png"/></a>
+ <a href="https://codepen.io/vanshsh"/><img src="https://img.icons8.com/ios/40/4a90e2/codepen.png"/></a>
+</div>
+
+
 
 ### ✌️ My self **Vansh Sharma**. ##
 
@@ -17,12 +27,14 @@
 
 ### 📌  As a Web developer I love building Projects and learning new tech skills. ##
 
+---
+
 <div align="center"><h2> My Portfolio :point_down: </h2>
 <a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
 </div>
 
 
-
+---
 <!-- Hobbies -->
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
@@ -53,15 +65,6 @@
 
 
 
-
-***
-<!--Contact-->
- <h2> Connect with me 👇</h2>  
- <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/twitter.png"/></a>
-  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/40/000000/linkedin.png"/></a> 
- <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/gmail.png"/></a>
- <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/40/4a90e2/book-and-pencil.png"/></a>
- <a href="https://codepen.io/vanshsh"/><img src="https://img.icons8.com/ios/40/4a90e2/codepen.png"/></a>
 
 ***
 
