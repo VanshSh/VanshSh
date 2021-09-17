@@ -1,21 +1,24 @@
 <!--Gif-->
 <div align="center"><img src="https://images.unsplash.com/photo-1503401639559-b16332601594?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80" width="80%" height="200px"></div>
 
+<!-- Contact -->
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
+[![](https://img.shields.io/twitter/url?color=white&label=Codepen&logo=codepen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fvanshsh)](https://codepen.io/vanshsh)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanshsh)
+
+</div>
 
 
- 
+
 
 <!--Intro-->
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1>
-<!--Contact-->
- <h2 align="center">Connect</h2>  
- <a href="https://twitter.com/Vanshsh2701" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/twitter.png"/></a>
-  <a href="https://www.linkedin.com/in/vanshsharma27/" target="_blank"><img src="https://img.icons8.com/bubbles/40/000000/linkedin.png"/></a> 
- <a href="mailto:vanshsharma9354@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/40/000000/gmail.png"/></a>
- <a href="https://vanshsharma.hashnode.dev/">  <img src="https://img.icons8.com/ios-filled/33/4a90e2/book-and-pencil.png"/></a>
- <a href="https://codepen.io/vanshsh"/><img src="https://img.icons8.com/ios/40/4a90e2/codepen.png"/></a>
-</div>
 
 
 
