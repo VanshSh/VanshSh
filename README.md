@@ -1,5 +1,6 @@
 <!--Gif-->
-<div align="center"><img src="https://images.unsplash.com/photo-1503401639559-b16332601594?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80" width="80%" height="200px"></div>
+<div align="center"><img src="https://images.unsplash.com/photo-1503401639559-b16332601594?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80" width="80%" height="200px">
+</div>
 
 <!-- Contact -->
 
@@ -8,8 +9,8 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
-[![](https://img.shields.io/twitter/url?color=white&label=Codepen&logo=codepen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fvanshsh)](https://codepen.io/vanshsh)
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanshsh)
+[![](https://img.shields.io/badge/Codepen-f7f7f7?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
+[![](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanshsh)
 
 </div>
 
@@ -18,7 +19,7 @@
 
 <!--Intro-->
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
-</h1>
+</h1></div>
 
 
 
