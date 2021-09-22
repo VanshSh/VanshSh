@@ -75,11 +75,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [Semantic Elements in HTML](https://vanshsharma.hashnode.dev/semantic-elements-in-html)
 - [7 Ways to Write Good Commit Message](https://vanshsharma.hashnode.dev/7-ways-to-write-good-commit-message)
 - [" Hoisting " in JavaScript.](https://vanshsharma.hashnode.dev/hoisting-in-javascript)
 - [10 Unique CSS Properties](https://vanshsharma.hashnode.dev/10-unique-css-properties)
 - [8  CSS Units to Make your Site Responsive](https://vanshsharma.hashnode.dev/8-css-units-to-make-your-site-responsive)
+- [7 Color Psychology Meanings](https://vanshsharma.hashnode.dev/7-color-psychology-meanings)
 <!-- HASHNODE:END -->
 
 
