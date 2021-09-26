@@ -73,7 +73,7 @@
 ***
 
 
-## Hashnode Blog Post
+## <div align ="center"> Hashnode Blog Post </div>
 <!-- HASHNODE:START -->
 - [Semantic Elements in HTML](https://vanshsharma.hashnode.dev/semantic-elements-in-html)
 - [7 Ways to Write Good Commit Message](https://vanshsharma.hashnode.dev/7-ways-to-write-good-commit-message)
@@ -85,7 +85,7 @@
 
 
 <!--Github Stats-->
-## <div align="center"><h2>Github Stats 📈 </h2>
+ <div align="center"><h2>Github Stats 📈 </h2>
 
 Stats | Languages
 ------| ----------
