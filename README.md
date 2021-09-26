@@ -31,14 +31,15 @@
 
 ### 📌  As a Web developer I love building Projects and learning new tech skills. ##
 
----
+***
 
-<div align="center"><h2> My Portfolio :point_down: </h2>
+<!-- 
+ <div align="center"><h2> My Portfolio :point_down: </h2>
 <a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
 </div>
 
+--- -->
 
----
 <!-- Hobbies -->
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
@@ -57,7 +58,7 @@
 ****
 
 <!--Technical skills-->
-<h2> Technical Skils 💻 </h2>
+<div align="center"><h2> Technical Skils 💻 </h2> </div>
 
 ### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
 
@@ -73,7 +74,7 @@
 ***
 
 
-## <div align ="center"> Hashnode Blog Post </div>
+## <div align ="center"> Hashnode Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
 - [Semantic Elements in HTML](https://vanshsharma.hashnode.dev/semantic-elements-in-html)
 - [7 Ways to Write Good Commit Message](https://vanshsharma.hashnode.dev/7-ways-to-write-good-commit-message)
