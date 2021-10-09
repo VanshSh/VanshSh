@@ -76,11 +76,11 @@
 
 ## <div align ="center"> Hashnode Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
-- [Operators in JavaScript](https://vanshsharma.hashnode.dev/operators-in-javascript)
 - [Block Element Modifier](https://vanshsharma.hashnode.dev/block-element-modifier)
 - [Semantic Elements in HTML](https://vanshsharma.hashnode.dev/semantic-elements-in-html)
 - [7 Ways to Write Good Commit Message](https://vanshsharma.hashnode.dev/7-ways-to-write-good-commit-message)
 - [" Hoisting " in JavaScript.](https://vanshsharma.hashnode.dev/hoisting-in-javascript)
+- [10 Unique CSS Properties](https://vanshsharma.hashnode.dev/10-unique-css-properties)
 <!-- HASHNODE:END -->
 
 
