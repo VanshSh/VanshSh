@@ -1,5 +1,5 @@
 <!--Gif-->
-<div align="center"><img src="https://source.unsplash.com/1600x900/?nature,water,mountain" width="80%" height="200px">
+<div align="center"><img src="https://source.unsplash.com/1600x900/?nature,mountain" width="80%" height="200px">
 </div>
 
 <!-- Contact -->
@@ -15,13 +15,9 @@
 </div>
 
 
-
-
 <!--Intro-->
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1></div>
-
-
 
 ### ✌️ My self **Vansh Sharma**. ##
 
@@ -33,14 +29,8 @@
 
 ***
 
-<!-- 
- <div align="center"><h2> My Portfolio :point_down: </h2>
-<a href="https://vanshsharma.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/60/000000/resume.png" style="vertical-align:top"></a> 
-</div>
-
---- -->
-
 <!-- Hobbies -->
+
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
 ### <li>:horse: Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
@@ -67,8 +57,6 @@
 
 
 ### Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
-
-
 
 ***
 
