@@ -39,7 +39,7 @@
 
 ### <li><img src="https://img.icons8.com/offices/30/000000/theatre-mask.png"/> Watching Stand-up Comedy</li>
 
-### <li>:bulb: Sharing thoughts/ Idea, Discussion</li>
+### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
 
 ### <li> :newspaper:   Reading about new Technology, Startups.</li>
 
@@ -53,7 +53,7 @@
 ### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
 
 
-### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
+### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
 
 
 ### Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
