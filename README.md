@@ -25,7 +25,8 @@
 
 ### 👨‍🎓 I am **_BSC (Physical Science Hons)_** Undergrad from University of Delhi.
 
-### 📌  As a Web developer I love building Projects and learning new tech skills. ##
+<!-- ### 📌  As a Web developer I love building Projects and learning new tech skills. ## -->
+
 
 ***
 
