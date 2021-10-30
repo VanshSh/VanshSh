@@ -1,9 +1,7 @@
 <!--Gif-->
-<!-- <div align="center"><img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" width="80%" height="200px">
-</div> -->
 
 <div align="center">
-<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  height="200" alt="Vansh Sharma's Dev Card"/></a></div>
+<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  height="250" alt="Vansh Sharma's Dev Card"/></a></div>
 
 
 
@@ -15,7 +13,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
 [![](https://img.shields.io/badge/Codepen-f7f7f7?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
-[![](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanshsh)
+[![](https://img.shields.io/badge/dev.to-pink?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanshsh)
 
 </div>
 
