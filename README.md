@@ -79,5 +79,12 @@ Stats | Languages
 ------| ----------
 ![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=radical) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### Now Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&redirect=true)
+
+<br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
