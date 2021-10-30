@@ -83,8 +83,7 @@ Stats | Languages
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 <br/>
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
