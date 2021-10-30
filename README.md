@@ -1,7 +1,7 @@
 <!--Gif-->
 
 <div align="center">
-<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  height="250" alt="Vansh Sharma's Dev Card"/></a></div>
+<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  width="350" alt="Vansh Sharma's Dev Card"/></a></div>
 
 
 
