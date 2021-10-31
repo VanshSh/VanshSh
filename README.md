@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
-[![](https://img.shields.io/badge/Codepen-BFCDE0?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
+[![](https://img.shields.io/badge/Codepen-A89DDD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
 [![](https://img.shields.io/badge/dev.to-pink?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
 
 </div>
