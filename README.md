@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
 [![](https://img.shields.io/badge/Codepen-A89DDD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
-[![](https://img.shields.io/badge/dev.to-pink?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
+[![](https://img.shields.io/badge/dev.to-23b065?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
 
 </div>
 
