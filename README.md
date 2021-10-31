@@ -20,13 +20,13 @@
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1></div>
 
-#### ✌️ My self **Vansh Sharma**. 
+### ✌️ My self **Vansh Sharma**. 
 
-#### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
+### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
 
-#### 💻 I am **Web Development** enthusiast and currently learning *learning React*. 
+### 💻 I am **Web Development** enthusiast and currently learning *learning React*. 
 
-#### ✨ As a Tech Content Writer, I am now interning with **GirlScript** and **Aviyel**.
+### ✨ As a Tech Content Writer, I am currently interning with **GirlScript** and **Aviyel**.
 
 
 ***
@@ -35,13 +35,13 @@
 
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
-#### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
-#### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
-#### <li> Watching Stand-Up Comedy</li>
+### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+### <li> Watching Stand-Up Comedy</li>
 
-#### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
+### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
 
-#### <li>Reading about new Technology, Startups.</li>
+### <li>Reading about new Technology, Startups.</li>
 
 #### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
 
@@ -50,13 +50,13 @@
 <!--Technical skills-->
 <div align="center"><h2> Technical Skils 💻 </h2> </div>
 
-#### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
+### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
 
 
-#### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
+### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
 
 
-## Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
+### Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
 
 ***
 
