@@ -50,13 +50,13 @@
 <!--Technical skills-->
 <div align="center"><h2> Technical Skils 💻 </h2> </div>
 
-### Languages: <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/>
+### Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a>
 
 
-### Frontend: <img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/> <img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/>
+### Frontend: <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css"> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a><a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://sass-lang.com/"><img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/></a>
 
 
-### Tools: <img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/>
+### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a>
 
 ***
 
