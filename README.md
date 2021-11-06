@@ -24,7 +24,7 @@
 
 ### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
 
-### 💻 I am **Web Development** enthusiast and currently learning *learning React*. 
+### 💻 I am **Web Development** enthusiast and currently learning *React*. 
 
 ### ✨ As a Tech Content Writer, I am currently interning with **GirlScript** and **Aviyel**.
 
