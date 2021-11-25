@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
 [![](https://img.shields.io/badge/Codepen-A89DDD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
+[![](https://img.shields.io/badge/CodeSandbox-EAC5D8?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/home?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
 [![](https://img.shields.io/badge/dev.to-23b065?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
 
 </div>
@@ -36,7 +37,7 @@
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
 ### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
-### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+### <li>Reading [Books](https://vanshsharma.notion.si te/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
 ### <li> Watching Stand-Up Comedy</li>
 
 ### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
