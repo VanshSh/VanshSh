@@ -27,7 +27,7 @@
 
 ### 💻 I am **Web Development** enthusiast and currently learning *React*. 
 
-### ✨ As a Tech Content Writer, I am currently interning with **GirlScript** and **Aviyel**.
+### ✨ As a Tech Content Writer, I am currently interning with **GirlScript**.
 
 
 ***
@@ -37,14 +37,16 @@
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
 ### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
-### <li>Reading [Books](https://vanshsharma.notion.si te/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+
+### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+
 ### <li> Watching Stand-Up Comedy</li>
 
 ### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
 
 ### <li>Reading about new Technology, Startups.</li>
 
-#### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
+### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
 
 ****
 
