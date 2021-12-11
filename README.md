@@ -64,7 +64,7 @@
 >### Backend:
 <br />
 
->### Framework/Library: <a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> 
+>### Framework/Library: <a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://getbootstrap.com/"> <img align="center" src="https://img.icons8.com/color/30/000000/bootstrap.png"/></a> 
 
 <br />
 
