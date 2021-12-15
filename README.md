@@ -73,7 +73,7 @@
 ***
 
 
-## <div align ="center"> Hashnode Blog Post :pencil: </div>
+## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
 - [Difference b/w for..in &amp; for..of](https://vanshsharma.hashnode.dev/difference-bw-forin-and-forof)
 - [REST vs. SPREAD](https://vanshsharma.hashnode.dev/rest-vs-spread)
