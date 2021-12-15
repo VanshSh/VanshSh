@@ -4,8 +4,9 @@
 <a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  width="350" alt="Vansh Sharma's Dev Card"/></a></div>
 
 <!-- Contact -->
-
+<br>
 <div align="center">
+<h3>Let's Connect</h3>
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
@@ -89,7 +90,7 @@
 
 Stats | Languages
 ------| ----------
-![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=great-gatsby#dark-mode-only) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
