@@ -90,7 +90,7 @@
 
 Stats | Languages
 ------| ----------
-![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&langs_count=5&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats)
+![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh&theme=midnight-purple&langs_count=5&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
