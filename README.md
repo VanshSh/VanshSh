@@ -65,7 +65,7 @@
 >### Backend: <a href="https://firebase.google.com/"><img align="center" src="https://img.icons8.com/color/30/000000/google-firebase-console.png"/></a>
 <br />
 
->### Framework/Library: <a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://getbootstrap.com/"> <img align="center" src="https://img.icons8.com/color/30/000000/bootstrap.png"/></a> <a href="https://tailwindcss.com/"> <img align="center" src="./assets/tailwindcss-icon.png"/></a> 
+>### Framework/Library:  <a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://getbootstrap.com/"> <img align="center" src="https://img.icons8.com/color/30/000000/bootstrap.png"/></a> <a href="https://tailwindcss.com/"> <img align="center" src="./assets/tailwindcss-icon.png"/></a> <a href="https://redux.js.org/"><img align="center" src="https://img.icons8.com/color/30/000000/redux.png"/></a>  <a href="https://reactrouter.com/"><img align="center" height="20" style="background-color:white" src="./assets/router.png"/></a>
 <br />
 
 > ### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a>
