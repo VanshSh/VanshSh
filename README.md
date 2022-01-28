@@ -22,13 +22,15 @@
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1></div>
 
-### ✌️ My self **Vansh Sharma**. 
+#### ✌️ My self **Vansh Sharma**. 
 
-### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
+#### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
 
-### 💻 I am **Web Development** enthusiast and currently learning *React*. 
+#### 💻 I am Self taught **Web Developer**. 
 
-### ✨ As a Tech Content Writer, I am currently interning with **GirlScript**.
+#### Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
+
+#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link]('https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
 
 
 ***
@@ -37,39 +39,44 @@
 
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
-### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+#### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
 
-### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+#### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
 
-### <li> Watching Stand-Up Comedy</li>
+#### <li> Watching Stand-Up Comedy</li>
 
-### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
+#### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
 
-### <li>Reading about new Technology, Startups.</li>
+#### <li>Reading about new Technology, Startups.</li>
 
-### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
+#### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
 
 ****
 
 <!--Technical skills-->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
 
-> ### Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a>
+
+
+> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
+
 
 <br />
 
-> ### Frontend: <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img align="center"  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css"> <img align="center" src="https://img.icons8.com/color/30/000000/css3.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://img.icons8.com/color/30/4a90e2/javascript--v1.png"/></a><a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://sass-lang.com/"><img align="center" src="https://img.icons8.com/color/30/000000/sass.png"/></a>
+>   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <!-- CSS 3 --> <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <!-- React --><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <!-- Sass --> <img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 <br />
 
->### Backend: <a href="https://firebase.google.com/"><img align="center" src="https://img.icons8.com/color/30/000000/google-firebase-console.png"/></a>
+> <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+
 <br />
 
->### Framework/Library:  <a href="https://reactjs.org/"> <img align="center" src="https://img.icons8.com/officel/30/000000/react.png"/></a> <a href="https://getbootstrap.com/"> <img align="center" src="https://img.icons8.com/color/30/000000/bootstrap.png"/></a> <a href="https://tailwindcss.com/"> <img align="center" src="./assets/tailwindcss-icon.png"/></a> <a href="https://redux.js.org/"><img align="center" src="https://img.icons8.com/color/30/000000/redux.png"/></a>  <a href="https://reactrouter.com/"><img align="center" height="20" style="background-color:white" src="./assets/router.png"/></a>
+
+> <img align="center" src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/> <!-- Tailwind CSS -->  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <!-- Redux --> <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <!--Router  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
 <br />
 
-> ### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a>
-
+>  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <!-- VS Code --> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 ***
 
 
