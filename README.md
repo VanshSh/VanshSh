@@ -28,9 +28,9 @@
 
 #### 💻 I am Self taught **Web Developer**. 
 
-#### Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
+#### 👨‍💻 Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
 
-#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link]('https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
+#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link](https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
 
 
 ***
@@ -58,7 +58,7 @@
 
 
 
-> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
+>  <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
 
 
 <br />
