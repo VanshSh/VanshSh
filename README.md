@@ -28,9 +28,9 @@
 
 #### 💻 I am Self taught **Web Developer**. 
 
-#### 👨‍💻 Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
+#### Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
 
-#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link](https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
+#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link]('https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
 
 
 ***
@@ -58,7 +58,7 @@
 
 
 
->  <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
+> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
 
 
 <br />
@@ -77,8 +77,13 @@
 <br />
 
 >  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <!-- VS Code --> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-***
 
+---
+## <div align ="center"> My work :man_teacher: </div>
+
+-  [Namaste JavaScript eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w)
+
+---
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
