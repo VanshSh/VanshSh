@@ -30,7 +30,7 @@
 
 #### Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
 
-#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link]('https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
+#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link](https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
 
 
 ***
