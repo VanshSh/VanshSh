@@ -11,31 +11,33 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
-[![](https://img.shields.io/badge/Codepen-A89DDD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vanshsh)
-[![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/home?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
+[![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
+[![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
 [![](https://img.shields.io/badge/dev.to-23b065?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
 
 </div>
 
 
-<!--Intro-->
+<!-- INTRO -->
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1></div>
 
 #### ✌️ My self **Vansh Sharma**. 
 
-#### 👨‍🎓 I am **BSC (Physical Science Hons)** Undergrad from University of Delhi.
+#### 👨‍🎓 I am **BSC (Physical Science Hons)** 2021 Undergrad from University of Delhi.
 
 #### 💻 I am Self taught **Web Developer**. 
 
-#### Currently Ambassador at **SuperTokens** . [Link](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
+#### :office_worker: Currently Ambassador at [**SuperTokens**](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
+
+#### :office_worker: Product Manager at [**RealDevSquad**](https://github.com/Real-Dev-Squad)
 
 #### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link](https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
 
 
 ***
 
-<!-- Hobbies -->
+<!-- HOBBIES -->
 
 <div align="center"><h2> :star2: Hobbies: </h2></div> 
 
@@ -53,7 +55,7 @@
 
 ****
 
-<!--Technical skills-->
+<!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
 
 
@@ -79,11 +81,14 @@
 >  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <!-- VS Code --> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 ---
-## <div align ="center"> My work :man_teacher: </div>
 
--  [Namaste JavaScript eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w)
+<!-- WORK -->
+## <div align ="center"> My Work :man_teacher: </div>
+
+###   [Namaste JavaScript Notes eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w) (780+ :arrow_down:)
 
 ---
+<!-- BLOGS  -->
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
