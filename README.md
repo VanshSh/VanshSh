@@ -87,7 +87,17 @@
 
 ###   [Namaste JavaScript Notes eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w) (780+ :arrow_down:)
 
+
 ---
+## <div align ="center"> My Experience 	:office_worker: </div>
+| **Organization** 	| **Position** 	| **Role** 	| **Duration** 	| **Certi/ LOR** 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| [Educative](https://www.educative.io/learn) 	| Course Creator 	| Creating project based REACT Course 	| Feb 2022 -- 	|  	|
+| [Real Dev Squad](https://www.realdevsquad.com/) 	| Product Manager 	| Working on My Site Section 	| Feb 2022 -- 	|  	|
+| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) 	| Contributor 	| Contributed to the GWOC Repo by adding Blogs on different topics 	| Spet 2021 -- Nov 2021 	| [Certificate](https://www.linkedin.com/posts/vanshsharma27_webdevelopment-girlscriptfoundation-activity-6887770265703485440-kdM8?utm_source=linkedin_share&utm_medium=member_desktop_web) 	|
+| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) 	| Content Developer 	| Being the member of the content team worked with other members to increase the reach of the program 	| Spet 2021 -- Nov 2021 	| [Letter of Recommendation](https://www.linkedin.com/posts/vanshsharma27_developer-content-internship-activity-6891318851968319489-Odd9?utm_source=linkedin_share&utm_medium=member_desktop_web) 	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
 <!-- BLOGS  -->
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
