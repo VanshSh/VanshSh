@@ -51,8 +51,6 @@
 
 #### <li>Reading about new Technology, Startups.</li>
 
-#### <li>Read my [Blogs](https://vanshsharma.hashnode.dev/)  </li>
-
 ****
 
 <!-- SKILLS -->
@@ -102,6 +100,7 @@
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
+
 - [Functions in JavaScript](https://vanshsharma.hashnode.dev/functions-in-javascript)
 - [Difference b/w for..in &amp; for..of](https://vanshsharma.hashnode.dev/difference-bw-forin-and-forof)
 - [REST vs. SPREAD](https://vanshsharma.hashnode.dev/rest-vs-spread)
@@ -120,9 +119,16 @@ Stats | Languages
 
 ---
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 <br/>
+
+
  
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
