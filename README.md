@@ -100,7 +100,6 @@
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
-
 - [Functions in JavaScript](https://vanshsharma.hashnode.dev/functions-in-javascript)
 - [Difference b/w for..in &amp; for..of](https://vanshsharma.hashnode.dev/difference-bw-forin-and-forof)
 - [REST vs. SPREAD](https://vanshsharma.hashnode.dev/rest-vs-spread)
