@@ -84,7 +84,7 @@
 <!-- WORK -->
 ## <div align ="center"> My Work :man_teacher: </div>
 
-###   [Namaste JavaScript Notes eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w) (780+ :arrow_down:)
+###   [Namaste JavaScript Notes eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w) (825+ :arrow_down:)
 
 
 ---
