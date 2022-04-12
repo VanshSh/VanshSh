@@ -101,11 +101,11 @@
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
 <!-- HASHNODE:START -->
+- [React useState Hook](https://vanshsharma.hashnode.dev/react-usestate-hook)
 - [Functions in JavaScript](https://vanshsharma.hashnode.dev/functions-in-javascript)
 - [Difference b/w for..in &amp; for..of](https://vanshsharma.hashnode.dev/difference-bw-forin-and-forof)
 - [REST vs. SPREAD](https://vanshsharma.hashnode.dev/rest-vs-spread)
 - [Operators in JavaScript](https://vanshsharma.hashnode.dev/operators-in-javascript)
-- [Block Element Modifier](https://vanshsharma.hashnode.dev/block-element-modifier)
 <!-- HASHNODE:END -->
 
 ---
