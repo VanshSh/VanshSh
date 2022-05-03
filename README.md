@@ -13,7 +13,8 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
 [![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
 [![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
-[![](https://img.shields.io/badge/dev.to-23b065?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/vanshsh)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
+
 
 </div>
 
