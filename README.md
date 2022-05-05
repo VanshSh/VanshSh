@@ -1,12 +1,17 @@
 <!--Gif-->
 
-<div align="center">
-<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  width="350" alt="Vansh Sharma's Dev Card"/></a></div>
+<!-- <div align="center">
+<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  width="350"  alt="Vansh Sharma's Dev Card"/></a></div> -->
 
 <!-- Contact -->
 <br>
+
+
+<!-- INTRO -->
+<div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
+</h1></div>
 <div align="center">
-<h3>Let's Connect</h3>
+
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
@@ -14,50 +19,20 @@
 [![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
 [![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
-
-
 </div>
 
+-  ✌️ My self **Vansh Sharma**. 
 
-<!-- INTRO -->
-<div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
-</h1></div>
+- 💻 I am Frontend **Web Developer**. 
 
-#### ✌️ My self **Vansh Sharma**. 
+- 🏢 Contributor at [**RealDevSquad**](https://github.com/Real-Dev-Squad)
 
-#### 👨‍🎓 I am **BSC (Physical Science Hons)** 2021 Undergrad from University of Delhi.
+- ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing 2021.** 
 
-#### 💻 I am Self taught **Web Developer**. 
-
-#### :office_worker: Currently Ambassador at [**SuperTokens**](https://twitter.com/Vanshsh2701/status/1483798876293570561?s=20&t=IWc3VX4VfwZeyDcyG8W7bg)
-
-#### :office_worker: Product Manager at [**RealDevSquad**](https://github.com/Real-Dev-Squad)
-
-#### ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing** . [Link](https://twitter.com/Vanshsh2701/status/1485265247371870215?s=20&t=TN4jg1Vh48anoQopECaVBg).
-
-
-***
-
-<!-- HOBBIES -->
-
-<div align="center"><h2> :star2: Hobbies: </h2></div> 
-
-#### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
-
-#### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
-
-#### <li> Watching Stand-Up Comedy</li>
-
-#### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
-
-#### <li>Reading about new Technology, Startups.</li>
-
-****
+---
 
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
-
-
 
 > <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
 
@@ -81,6 +56,25 @@
 >  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <!-- VS Code --> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 ---
+
+
+
+<!-- HOBBIES -->
+
+<div align="center"><h2> :star2: Hobbies: </h2></div> 
+
+#### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+
+#### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
+
+#### <li> Watching Stand-Up Comedy</li>
+
+#### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
+
+#### <li>Reading about new Technology, Startups.</li>
+
+****
+
 
 <!-- WORK -->
 ## <div align ="center"> My Work :man_teacher: </div>
