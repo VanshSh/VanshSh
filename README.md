@@ -1,7 +1,9 @@
-<!--Gif-->
+<!-- Random Quote -->
+<div align="center">
 
-<!-- <div align="center">
-<a href="https://app.daily.dev/Vansh_sharma"><img src="https://api.daily.dev/devcards/279d4ebc82c341388624e9a2aef4fbd1.png?r=kce"  width="350"  alt="Vansh Sharma's Dev Card"/></a></div> -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
+
+</div>
 
 <!-- Contact -->
 <br>
@@ -73,25 +75,7 @@
 
 #### <li>Reading about new Technology, Startups.</li>
 
-****
-
-
-<!-- WORK -->
-## <div align ="center"> My Work :man_teacher: </div>
-
-###   [Namaste JavaScript Notes eBook ](https://vanshsh.gumroad.com/l/namastejavascriptnotes?_gl=1*n6e6fj*_ga*MjE0NDEwMTk3Ny4xNjQzMDM1NzI4*_ga_6LJN6D94N6*MTY0MzgxMDcyNy41LjEuMTY0MzgxMDg1MS4w) (825+ :arrow_down:)
-
-
 ---
-## <div align ="center"> My Experience 	:office_worker: </div>
-| **Organization** 	| **Position** 	| **Role** 	| **Duration** 	| **Certi/ LOR** 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|
-| [Educative](https://www.educative.io/learn) 	| Course Creator 	| Creating project based REACT Course 	| Feb 2022 -- 	|  	|
-| [Real Dev Squad](https://www.realdevsquad.com/) 	| Product Manager 	| Working on My Site Section 	| Feb 2022 -- 	|  	|
-| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) 	| Contributor 	| Contributed to the GWOC Repo by adding Blogs on different topics 	| Spet 2021 -- Nov 2021 	| [Certificate](https://www.linkedin.com/posts/vanshsharma27_webdevelopment-girlscriptfoundation-activity-6887770265703485440-kdM8?utm_source=linkedin_share&utm_medium=member_desktop_web) 	|
-| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) 	| Content Developer 	| Being the member of the content team worked with other members to increase the reach of the program 	| Spet 2021 -- Nov 2021 	| [Letter of Recommendation](https://www.linkedin.com/posts/vanshsharma27_developer-content-internship-activity-6891318851968319489-Odd9?utm_source=linkedin_share&utm_medium=member_desktop_web) 	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
 <!-- BLOGS  -->
 
 ## <div align ="center"> Recent Blog Post :pencil: </div>
@@ -108,14 +92,14 @@
 <!--Github Stats-->
  <div align="center"><h2>Github Stats 📈 </h2>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshSh&theme=monokai)
+
 Stats | Languages
 ------| ----------
-![Vansh 's Github Stats](https://github-readme-stats.vercel.app/api?username=VanshSh&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSh&theme=midnight-purple&langs_count=5&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshSh&theme=monokai) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshSh&theme=monokai)
 
----
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 ---
 
@@ -124,6 +108,5 @@ Stats | Languages
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 <br/>
 
-
- 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
+
