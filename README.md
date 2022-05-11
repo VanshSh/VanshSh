@@ -1,11 +1,9 @@
 
 <!-- Random Quote -->
+
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
-
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'></p>
 
 </div>
 
@@ -22,26 +20,23 @@
 [![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
 [![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
+[![PayPal](https://img.shields.io/badge/Support%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vanshsharma27)
+
 </div>
 
--  ✌️ My self **Vansh Sharma**. 
+- 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend developer** from **India**.
 
-- 💻 I am Frontend **Web Developer**. 
+- :writing_hand: I am regular technical blogs writer.  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
 
-- 🏢 Contributor at [**RealDevSquad**](https://github.com/Real-Dev-Squad)
+- 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c).
 
-- ✍️  I interned as a Content Developer at **GirlScript Winter of Contributing 2021.** 
 
-#### <li> Playing Chess. Invite me here :point_right:<a href="https://www.chess.com/member/vanshsh2701" target="_blank" /><img align="center" src="https://img.icons8.com/clouds/50/000000/rook.png"/></a></li>
+- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/15/000000/external-thread-sewing-flaticons-flat-flat-icons-2.png"/> I share Web Development related content on Twitter in the form of Threads. Some of my recent threads can be found [here](https://typefully.com/Vanshsh2701).
 
-#### <li>Reading [Books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c) </li>
 
-#### <li> Watching Stand-Up Comedy</li>
+- ♟️ I love playing Chess. Invite me here to play [Chess](https://www.chess.com/member/vanshsh2701).
 
-#### <li> Sharing about Web Development on [Twitter](https://twitter.com/Vanshsh2701)</li>
-
-#### <li>Reading about new Technology, Startups.</li>
-
+-  I love reading about new technology and keep upskilling my self therefore currently I am reading about Web3 and learning NextJs.
 ---
 
 <!-- SKILLS -->
@@ -68,10 +63,11 @@
 
 >  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <!-- VS Code --> <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
----
+
 <!-- BLOGS  -->
 
-## <div align ="center"><h2> Recent Blog Post :pencil: </h2></div>
+<div align ="center"><h2> Recent Blog Post :pencil: </h2> </div>
+
 <!-- HASHNODE:START -->
 - [useReducer Hook in React](https://vanshsharma.hashnode.dev/usereducer-hook-in-react)
 - [useRef Hook in React](https://vanshsharma.hashnode.dev/useref-hook-in-react)
@@ -80,16 +76,16 @@
 - [useState Hook in React](https://vanshsharma.hashnode.dev/usestate-hook-in-react)
 <!-- HASHNODE:END -->
 
----
 
-<div align="center"><h2>Projects</h2>
+
+<div align="center"><h2>Projects :baggage_claim: </h2>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=UIWIzard&theme=radical)](https://uiwizard.netlify.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=CryptoX&theme=radical)](https://cryptox2.vercel.app/)
                         
 </div>
 
----
+
 <!--Github Stats-->
 <div align="center"><h2>Github Stats 📈 </h2>
 
@@ -99,11 +95,12 @@
 |:-------------------:|:----------------------:|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshSh&theme=monokai)                |      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshSh&theme=monokai)                  |
                     
----
+
 
 <!-- Song Playing -->
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'>
 </div>
