@@ -5,12 +5,14 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio%20Link-FF6C37?style=for-the-badge&&logoColor=white)](http://vanshsharma.vercel.app/)
 </div>
 
 
 
 <!-- INTRO -->
 <div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
+
 </h1></div>
 <div align="center">
 
@@ -24,7 +26,7 @@
 
 </div>
 
-- 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend developer** from **India**.
+- 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend developer** from **India** 🇮🇳.
 
 - :writing_hand: I am regular technical blogs writer.  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
 
@@ -33,11 +35,13 @@
 
 - <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/15/000000/external-thread-sewing-flaticons-flat-flat-icons-2.png"/> I share Web Development related content on Twitter in the form of Threads. Some of my recent threads can be found [here](https://typefully.com/Vanshsh2701).
 
+- 💬 Discuss about JavaScript, Reactjs, CSS, Books, etc...
 
 - ♟️ I love playing Chess. Invite me here to play [Chess](https://www.chess.com/member/vanshsh2701).
 
 -  I love reading about new technology and keep upskilling my self therefore currently I am reading about Web3 and learning NextJs.
----
+
+- 📧 How to reach me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
 
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
