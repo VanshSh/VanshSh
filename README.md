@@ -39,9 +39,9 @@
 
 - ♟️ I love playing Chess. Invite me here to play [Chess](https://www.chess.com/member/vanshsh2701).
 
--  I love reading about new technology and keep upskilling my self therefore currently I am reading about Web3 and learning Typescript , Nextjs.
+- 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading about Web3 and learning Typescript , Nextjs.
 
-- 📧 How to reach me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
+- 📧 Contact me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
 
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
