@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
 [![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
-[![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56)
+<!-- [![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56) -->
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
 [![PayPal](https://img.shields.io/badge/Support%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vanshsharma27)
 
@@ -30,12 +30,12 @@
 
 - :writing_hand: I am technical blogs writer.  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
 
-- 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c).
+<!-- - 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c). -->
 
 
 - <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/15/000000/external-thread-sewing-flaticons-flat-flat-icons-2.png"/> I share Web Development related content on Twitter in the form of Threads. Some of my recent threads can be found [here](https://typefully.com/Vanshsh2701).
 
-- 💬 Discuss about JavaScript, Reactjs, CSS, Books, etc...
+- 💬 Discuss about Frontend, New technologies, Books, etc...
 
 - ♟️ I love playing Chess. Invite me here to play [Chess](https://www.chess.com/member/vanshsh2701).
 
