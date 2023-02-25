@@ -28,6 +28,7 @@
 
 - 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend developer** from **India** 🇮🇳.
 
+
 - :writing_hand: I am technical blogs writer.  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
 
 <!-- - 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c). -->
@@ -42,6 +43,16 @@
 - 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading about Web3 and learning Typescript , Nextjs.
 
 - 📧 Contact me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
+
+<!-- SKILLS -->
+<div align="center"><h2> My Work 📑 </h2> </div>
+
+```
+- My React Course on Educative: 👇
+```
+> <a href="https://www.educative.io/courses/creating-five-impactful-applications-with-reactjs"><img src="https://www.educative.io/cdn-cgi/image/format=auto,width=600,quality=75/v2api/collection/6586453712175104/6558618190610432/image/5341103656271872"/></a>
+
+
 
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
