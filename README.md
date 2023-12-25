@@ -108,7 +108,7 @@
 
 | **Stats** | **Languages** |
 |:-------------------:|:----------------------:|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshSh&theme=monokai)                |      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshSh&theme=monokai)                  |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshSh&theme=monokai)                |      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshSh&theme=monokai)                  |
                     
 
 
