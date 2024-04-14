@@ -84,11 +84,11 @@
 <div align ="center"><h2> Recent Blog Post :pencil: </h2> </div>
 
 <!-- HASHNODE:START -->
+- [Intersection Observer](https://vanshsharma.hashnode.dev/intersection-observer)
 - [Unleashing the Power of RTK Query for Data Fetching and Caching](https://vanshsharma.hashnode.dev/unleashing-the-power-of-rtk-query-for-data-fetching-and-caching)
 - [Simplify Async Actions in Redux with createAsyncThunk](https://vanshsharma.hashnode.dev/simplify-async-actions-in-redux-with-createasyncthunk)
 - [Simple State Management using Redux Toolkit](https://vanshsharma.hashnode.dev/simple-state-management-using-redux-toolkit)
 - [Building Robust and Maintainable React Applications with SOLID Principles](https://vanshsharma.hashnode.dev/building-robust-and-maintainable-react-applications-with-solid-principles)
-- [useReducer Hook in React](https://vanshsharma.hashnode.dev/usereducer-hook-in-react)
 <!-- HASHNODE:END -->
 
 
