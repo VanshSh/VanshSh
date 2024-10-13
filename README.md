@@ -19,10 +19,14 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vanshsh2701) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma27/) 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma9354@gmail.com)
+<!--
+[![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56) 
 [![](https://img.shields.io/badge/Calendly-2e7eea?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/vanshsharma9354/)
-<!-- [![](https://img.shields.io/badge/CodeSandbox-624763?style=for-the-badge&logo=codesandbox&logoColor=black)](https://codesandbox.io/dashboard/all/?workspace=d5d2cd62-59c4-4472-b528-c790da428f56) -->
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
+
 [![PayPal](https://img.shields.io/badge/Support%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vanshsharma27)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vanshsharma.hashnode.dev/)
+-->
 
 </div>
 
@@ -57,7 +61,9 @@
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
 
-> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/> <!-- React --><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/> <!-- React --><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+
+
 
 
 <br />
