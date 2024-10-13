@@ -38,7 +38,7 @@
 
 - 💬 Discuss about Frontend, New technologies, Books, etc...
 
-- ♟️ I love playing Chess. Invite me here to play [Chess](https://www.chess.com/member/vanshsh2701).
+- ♟️ I love playing Chess and Badminton. ♟️🏸
 
 - 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading about Web3 and learning Typescript , Nextjs.
 
