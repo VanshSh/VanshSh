@@ -44,7 +44,7 @@
 
 - ♟️ I love playing Chess and Badminton. ♟️🏸
 
-- 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading about Web3 and learning Typescript , Nextjs.
+- 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading learning Nextjs.
 
 - 📧 Contact me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
 
