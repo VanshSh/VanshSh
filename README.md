@@ -61,8 +61,8 @@
 <!-- SKILLS -->
 <div align="center"><h2> Technical Skills 💻 </h2> </div>
 
-> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/> <!-- React --><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-
+> <img align="center" src="https://img.shields.io/badge/javascript-ffff00.svg?style=for-the-badge&logo=javascript&logoColor=000000"/> <!-- React --><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <!-- TypeScript --><img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+"/> 
 
 
 
@@ -72,7 +72,8 @@
 
 <br />
 
-> <img align="center" src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/> <!-- Tailwind CSS -->  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <!-- Redux --> <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <!--Router  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+> <img align="center" src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/> <!-- Tailwind CSS -->  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <!-- Redux --> <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <!--Router  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> <!--Storybook  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/> 
+
 
 
 <br />
