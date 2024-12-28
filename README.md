@@ -103,6 +103,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=UIWIzard&theme=radical)](https://uiwizard.netlify.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=CryptoX&theme=radical)](https://cryptox2.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=react-note-taking-app-with-ts&theme=radical)](https://react-note-taking-app-with-ts.vercel.app/)
                         
 </div>
 
@@ -116,12 +117,6 @@
 |:-------------------:|:----------------------:|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshSh&theme=monokai)                |      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshSh&theme=monokai)                  |
                     
-
-
-<!-- Song Playing -->
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mwijo66vdfifxyddp3zvwtyxki&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img src='https://visitor-badge.laobi.icu/badge?page_id=VanshSh'>
 </div>
