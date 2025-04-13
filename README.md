@@ -30,10 +30,10 @@
 
 </div>
 
-- 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend developer** from **India** 🇮🇳.
+- 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend Software developer** from **India** 🇮🇳.
 
 
-- :writing_hand: I am technical blogs writer.  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
+- :writing_hand: I write technical blogs .  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
 
 <!-- - 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c). -->
 
@@ -45,6 +45,8 @@
 - ♟️ I love playing Chess and Badminton. ♟️🏸
 
 - 🌴 I love reading about new technology and keep reskilling my self therefore currently I am reading learning Nextjs.
+
+- Feel free to contact me for Freelancing or Volunteer project opportunity where I can contribute my skill and learning.
 
 - 📧 Contact me: [vanshsharma9354@gmail.com](mailto:vanshsharma9354@gmail.com)
 
