@@ -38,7 +38,7 @@
 <!-- - 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c). -->
 
 
-- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/15/000000/external-thread-sewing-flaticons-flat-flat-icons-2.png"/> I share Web Development related content on Twitter in the form of Threads. Some of my recent threads can be found [here](https://typefully.com/Vanshsh2701).
+- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/15/000000/external-thread-sewing-flaticons-flat-flat-icons-2.png"/> I share Web Development related content on LinkedIn in the form of posts.
 
 - 💬 Discuss about Frontend, New technologies, Books, etc...
 
@@ -71,7 +71,7 @@
 
 <br />
 
-> <img align="center" src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/> <!-- Tailwind CSS -->  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <!-- Redux --> <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <!--Router  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> <!--Storybook  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/> 
+> <img align="center" src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=white)"/> <!-- Tailwind CSS -->  <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <!-- Redux --> <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <!--Router  --> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> <!--Storybook  --> <img align="center" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/> 
 
 
 
