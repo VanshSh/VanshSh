@@ -89,7 +89,7 @@
 
 <!-- BLOGS  -->
 
-<div align ="center"><h2> Recent Blog Post :pencil: </h2> </div>
+<!-- <div align ="center"><h2> Recent Blog Post :pencil: </h2> </div> -->
 
 <!-- HASHNODE:START 
 - [Keyof and Typeof Operators in TypeScript](https://vanshsharma.hashnode.dev/keyof-and-typeof-operators-in-typescript)
@@ -101,13 +101,17 @@
 
 
 
-<div align="center"><h2>Projects :baggage_claim: </h2>
-<div  align="center" display="flex">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=miniurl&theme=radical  )](https://github.com/VanshSh/miniurl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=react-note-taking-app-with-ts&theme=radical  )](https://react-note-taking-app-with-ts.vercel.app/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=CryptoX&theme=radical)](https://cryptox2.vercel.app/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanshSh&repo=UIWIzard&theme=radical)](https://uiwizard.netlify.app/)
+<div align="center"><h2>Projects :baggage_claim: </h2>
+<div  align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap=4px">
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=VanshSh&repo=miniurl&theme=radical)](https://github.com/VanshSh/miniurl)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=VanshSh&repo=react-note-taking-app-with-ts&theme=radical)](https://react-note-taking-app-with-ts.vercel.app/)
+
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=VanshSh&repo=CryptoX&theme=radical)](https://cryptox2.vercel.app/)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=VanshSh&repo=UIWIzard&theme=radical)](https://uiwizard.netlify.app/)
+
 
 
   
