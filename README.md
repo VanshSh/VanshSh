@@ -33,7 +33,7 @@
 - 🔭 My self **Vansh Sharma** and I'm a self-taught passionate 💻 **Frontend Software developer** from **India** 🇮🇳.
 
 
-- :writing_hand: I write technical blogs .  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/).
+- :writing_hand: I write technical blogs .  All my blogs can be found on [Hashnode](https://vanshsharma.hashnode.dev/) [Medium](https://medium.com/me/stories?tab=posts-published)
 
 <!-- - 📖 Since the year 2020, I've been reading obsessively. Here is a list of [my books](https://vanshsharma.notion.site/BOOKS-3cf56cc10db54509a197fc63cf4a3a5c). -->
 
