@@ -5,7 +5,12 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio%20Link-FF6C37?style=for-the-badge&&logoColor=white)](http://vanshsharma.vercel.app/)
+<!--[![Portfolio](https://img.shields.io/badge/My%20Portfolio%20Link-FF6C37?style=for-the-badge&&logoColor=white)](http://vanshsharma.vercel.app/)
+-->
+
+[![Portfolio](https://img.shields.io/badge/My%20Resume%20Link-FF6C37?style=for-the-badge&&logoColor=white)](https://drive.google.com/file/d/1mMq0F84iDUhV-vA2RLE82IYLRvAGFC97/view?usp=sharing)
+
+
 </div>
 
 
